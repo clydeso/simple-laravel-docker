@@ -2,9 +2,9 @@
 
 ## Requirements
 
-[Download Docker] (https://docs.docker.com/docker-for-mac/install/)
-[Download Composer] (https://getcomposer.org/)
-[Laravel ^6.x] (https://laravel.com/docs/6.x)
+- __[Download Docker](https://docs.docker.com/docker-for-mac/install/)__
+- __[Download Composer](https://getcomposer.org/)__
+- __[Laravel ^6.x](https://laravel.com/docs/6.x)__
 
 ## Setup
 
